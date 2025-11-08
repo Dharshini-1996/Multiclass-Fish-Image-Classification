@@ -29,3 +29,6 @@ This project focuses on classifying fish images into multiple categories using d
       Predict and display the fish category.
       Provide model confidence scores.
 
+**Dataset**
+   The dataset consists of images of fish, categorized into folders by species. The dataset is loaded using TensorFlow's ImageDataGenerator for efficient processing.
+   Dataset:Data as Zip file : https://drive.google.com/drive/folders/1iKdOs4slf3XvNWkeSfsszhPRggfJ2qEd
